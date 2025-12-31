@@ -1,3 +1,18 @@
+import my_utils
+
+# print(f'圆周率: {my_utils.PI}')
+# print(f'10 + 20 = {my_utils.add(10, 20)}')
+# print(f'-5是否正数: {my_utils.is_positive(-5)}')
+#
+# calc = my_utils.Calculator(base=10)
+# print(f'10 + 5 = {calc.add_base(5)}')
+
+# import my_utils as utils
+# print(f'10 x 20 = {utils.mul(10, 20)}')
+
+
+
+
 # import calculator as calc
 
 # from calculator import *
@@ -91,24 +106,23 @@ from calculator import add as calc_add
 #
 # print(A.Test)
 
-import os
-import sys
-from datetime import datetime
-
-import requests as req
-
-import calculator as calc
-from my_tools import write_log
-
-def main():
-    now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    result = calc.add(100, 200)
-    write_log(f'[{now}] 计算结果: {result}')
-    resp = req.get("https://www.baidu.com")
-    print(f'请求状态码: {resp.status_code}')
-
-if __name__ == '__main__':
-    main()
-
+# import os
+# import sys
+# from datetime import datetime
+#
+# import requests as req
+#
+# import calculator as calc
+# from my_tools import write_log
+#
+# def main():
+#     now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+#     result = calc.add(100, 200)
+#     write_log(f'[{now}] 计算结果: {result}')
+#     resp = req.get("https://www.baidu.com")
+#     print(f'请求状态码: {resp.status_code}')
+#
 # if __name__ == '__main__':
-    
+#     main()
+#
+# # if __name__ == '__main__':
