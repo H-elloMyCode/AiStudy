@@ -1,0 +1,9 @@
+百度首页导航信息
+=================
+1. 文本：新闻 | 链接：//news.baidu.com/
+2. 文本：hao123 | 链接：//www.hao123.com/
+3. 文本：地图 | 链接：//map.baidu.com/
+4. 文本：直播 | 链接：//live.baidu.com/
+5. 文本：视频 | 链接：//haokan.baidu.com/?sfrom=baidu-top
+6. 文本：贴吧 | 链接：//tieba.baidu.com/
+7. 文本：学术 | 链接：//xueshu.baidu.com/
